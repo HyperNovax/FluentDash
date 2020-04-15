@@ -13,5 +13,9 @@ Widget concern all except music, weather, note and time skins.
 - [X] Delete framerate indicator to GPU skin.
 - [X] Replace speed fan GPU by GPU temperature.
 - [ ] (**50%**) Create HDD skin. Skins for one hard disk and two hard drives. Create with variables, you can customize the size (like border).
+
+![HDDone](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/hddone.gif "HDD widget")
+
 - [ ] (**0%**) Adapt size of widgets (font size, border, size of circle) and add variables.
 - [ ] (**0%**) Create 3 skins small / middle / large. The current widgets are large.
+
