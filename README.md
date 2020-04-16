@@ -20,10 +20,10 @@ I foresee to create skins with a possibility to customize the size at your conve
 
 - [X] (**100%**) Create HDD one disk skin (s/m/l).
 - [X] (**100%**) Create HDD two drives skin (s/m/l).
-- [X] (**0%**) Adapt and create CPU skin (s/m/l).
-- [X] (**0%**) Adapt and create GPU skin (s/m/l).
-- [X] (**0%**) Adapt and create network skin (s/m/l).
-- [X] (**0%**) Adapt and create RAM skin (s/m/l).
+- [ ] (**0%**) Adapt and create CPU skin (s/m/l).
+- [ ] (**0%**) Adapt and create GPU skin (s/m/l).
+- [ ] (**0%**) Adapt and create network skin (s/m/l).
+- [ ] (**0%**) Adapt and create RAM skin (s/m/l).
 
 
 # Preview
