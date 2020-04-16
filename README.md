@@ -16,8 +16,8 @@ Widget concern all except music, weather, note and time skins.
 
 
 
-- [ ] (**0%**) Adapt size of widgets (font size, border, size of circle) and add variables.
-- [ ] (**0%**) Create 3 skins small / middle / large. The current widgets are large.
+- [ ] (**10%**) Adapt size of widgets (font size, border, size of circle) and add variables.
+- [ ] (**10%**) Create 3 skins small / middle / large. The current widgets are large.
 
 # Preview
 ## Hard Disk (one)
