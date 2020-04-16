@@ -2,19 +2,29 @@
 I reinstalled Rainmeter a few weeks ago and I found an excellent skins for Windows 10.
 So I corrected some things to make it work and I added some extra.
 
-Thanks to [Mazeby](https://github.com/Mazeby/FluentDash) for the FluentDash !
+#### Thanks to [Mazeby](https://github.com/Mazeby/FluentDash) for the FluentDash !
 
 
 # Roadmap
 The modifications that I made and that will make.
 Widget concern all except music, weather, note and time skins.
 
+## Fixed
 - [ ] (**0%**) Problem display measure GPU : GPU skin can collect measure when there is more that one graphics card.
 - [ ] (**0%**) Delete framerate indicator to GPU skin.
 - [ ] (**0%**) Replace speed fan GPU by GPU temperature.
-- [X] (**100%**) Create HDD skins. Skins for one hard disk and two hard drives. Create with variables, you can customize the size (like border).
-- [ ] (**10%**) Adapt size of widgets (font size, border, size of circle) and add variables.
-- [ ] (**10%**) Create 3 skins small / middle / large. The original widgets are large.
+- [ ] (**0%**) Fix the value of VRAM size of GPU.
+
+## Skins
+I foresee to create skins with a possibility to customize the size at your convenience. 
+
+- [X] (**100%**) Create HDD one disk skin (s/m/l).
+- [X] (**100%**) Create HDD two drives skin (s/m/l).
+- [X] (**0%**) Adapt and create CPU skin (s/m/l).
+- [X] (**0%**) Adapt and create GPU skin (s/m/l).
+- [X] (**0%**) Adapt and create network skin (s/m/l).
+- [X] (**0%**) Adapt and create RAM skin (s/m/l).
+
 
 # Preview
 ## Hard Disk (one)
