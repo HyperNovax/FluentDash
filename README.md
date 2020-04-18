@@ -23,20 +23,25 @@ I foresee to create skins with a possibility to customize the size at your conve
 - [ ] (**0%**) Adapt and create CPU skin (s/m/l).
 - [ ] (**0%**) Adapt and create GPU skin (s/m/l).
 - [ ] (**0%**) Adapt and create network skin (s/m/l).
-- [ ] (**0%**) Adapt and create RAM skin (s/m/l).
+- [ ] (**33%**) Adapt and create RAM skin (s/m/l).
 
 
 # Preview
 ## Hard Disk (one)
 Size | Preview
 :------------: | -------------
-**Large** | ![HDDone](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/hddone-large.gif "HDD widget")
-**Medium** | ![HDDone](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/hddone-medium.gif "HDD widget")
-**Small** | ![HDDone](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/hddone-small.gif "HDD widget")
+**Large** | ![HDDone Large](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/hddone-large.gif "HDD one large widget")
+**Medium** | ![HDDone Medium](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/hddone-medium.gif "HDD one medium widget")
+**Small** | ![HDDone Small](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/hddone-small.gif "HDD one small widget")
 
 ## Hard Disk (two)
 Size | Preview
 :------------: | -------------
-**Large** | ![HDDone](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/hddtwo-large.gif "HDD widget")
-**Medium** | ![HDDone](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/hddtwo-medium.gif "HDD widget")
-**Small** | ![HDDone](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/hddtwo-small.gif "HDD widget")
+**Large** | ![HDDtwo Large](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/hddtwo-large.gif "HDD two large widget")
+**Medium** | ![HDDtwo Medium](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/hddtwo-medium.gif "HDD two medium widget")
+**Small** | ![HDDtwo Small](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/hddtwo-small.gif "HDD two small widget")
+
+## RAM
+Size | Preview
+:------------: | -------------
+**Large** | ![RAM Large](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/ram-large.gif "RAM large widget")
