@@ -16,8 +16,6 @@ Widget concern all except music, weather, note and time skins.
 - [ ] (**0%**) Fix the value of VRAM size of GPU.
 
 ## Skins
-I foresee to create skins with a possibility to customize the size at your convenience. 
-
 - [X] (**100%**) Create HDD one disk skin (s/m/l).
 - [X] (**100%**) Create HDD two drives skin (s/m/l).
 - [ ] (**0%**) Adapt and create CPU skin (s/m/l).
@@ -45,3 +43,4 @@ Size | Preview
 Size | Preview
 :------------: | -------------
 **Large** | ![RAM Large](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/ram-large.gif "RAM large widget")
+**Medium** | ![RAM Medium](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/ram-medium.gif "RAM medium widget")
