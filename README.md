@@ -44,3 +44,4 @@ Size | Preview
 :------------: | -------------
 **Large** | ![RAM Large](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/ram-large.gif "RAM large widget")
 **Medium** | ![RAM Medium](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/ram-medium.gif "RAM medium widget")
+**Small** | ![RAM Small](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/ram-small.gif "RAM small widget")
