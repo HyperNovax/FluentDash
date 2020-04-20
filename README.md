@@ -10,18 +10,18 @@ The modifications that I made and that will make.
 Widget concern all except music, weather, note and time skins.
 
 ## Fixed
-- [ ] (**0%**) Problem display measure GPU : GPU skin can collect measure when there is more that one graphics card.
-- [ ] (**0%**) Delete framerate indicator to GPU skin.
-- [ ] (**0%**) Replace speed fan GPU by GPU temperature.
-- [ ] (**0%**) Fix the value of VRAM size of GPU.
+- [X] (**100%**) Problem display measure GPU : GPU skin can collect measure when there is more that one graphics card.
+- [X] (**100%**) Delete framerate indicator to GPU skin.
+- [X] (**100%**) Replace speed fan GPU by GPU temperature.
+- [X] (**100%**) Fix the value of VRAM size of GPU (need to verify with other GPU).
 
 ## Skins
 - [X] (**100%**) Create HDD one disk skin (s/m/l).
 - [X] (**100%**) Create HDD two drives skin (s/m/l).
 - [ ] (**0%**) Adapt and create CPU skin (s/m/l).
-- [ ] (**0%**) Adapt and create GPU skin (s/m/l).
+- [ ] (**33%**) Adapt and create GPU skin (s/m/l).
 - [ ] (**0%**) Adapt and create network skin (s/m/l).
-- [ ] (**33%**) Adapt and create RAM skin (s/m/l).
+- [ ] (**90%**) Adapt and create RAM skin (s/m/l).
 
 
 # Preview
@@ -45,3 +45,8 @@ Size | Preview
 **Large** | ![RAM Large](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/ram-large.gif "RAM large widget")
 **Medium** | ![RAM Medium](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/ram-medium.gif "RAM medium widget")
 **Small** | ![RAM Small](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/ram-small.gif "RAM small widget")
+
+## GPU
+Size | Preview
+:------------: | -------------
+**Large** | ![GPU Large](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/gpu-large.gif "GPU large widget")
