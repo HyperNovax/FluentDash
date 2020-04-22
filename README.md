@@ -19,7 +19,7 @@ Widget concern all except music, weather, note and time skins.
 - [X] (**100%**) Create HDD one disk skin (s/m/l).
 - [X] (**100%**) Create HDD two drives skin (s/m/l).
 - [ ] (**0%**) Adapt and create CPU skin (s/m/l).
-- [ ] (**66%**) Adapt and create GPU skin (s/m/l).
+- [ ] (**100%**) Adapt and create GPU skin (s/m/l).
 - [ ] (**0%**) Adapt and create network skin (s/m/l).
 - [ ] (**90%**) Adapt and create RAM skin (s/m/l).
 
@@ -51,3 +51,4 @@ Size | Preview
 :------------: | -------------
 **Large** | ![GPU Large](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/gpu-large.gif "GPU large widget")
 **Medium** | ![GPU Medium](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/gpu-medium.gif "GPU medium widget")
+**Small** | ![GPU Small](https://raw.githubusercontent.com/HyperNovax/FluentDash/master/Example%20Images/gpu-small.gif "GPU small widget")
